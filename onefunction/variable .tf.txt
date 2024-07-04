@@ -1,0 +1,4 @@
+variable "include_ec2_instance" {
+  type    = bool
+  default = true
+}
